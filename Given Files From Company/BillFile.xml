@@ -1,0 +1,122 @@
+<BILL_HEADER_Dataset>
+<BILL_HEADER>
+      <Invoice_No>00045125</Invoice_No>
+      <Account_No>HY\VG19</Account_No>
+      <Customer_Name>ArkDun, Zora</Customer_Name>
+      <Cycle_Cd>1</Cycle_Cd>
+      <Bill_Dt>Jann-15-2019</Bill_Dt>
+      <Due_Dt>Nov-16-2019</Due_Dt>
+	  <Bill>
+		<Bill_Amount>70.60</Bill_Amount>
+		<Balance_Due>41.37</Balance_Due>
+		<Bill_Run_Dt>Sep-07-2018</Bill_Run_Dt>
+		<Bill_Run_Seq>275</Bill_Run_Seq>
+		<Bill_Run_Tm>19000101</Bill_Run_Tm>
+		<Bill_Tp>REGLR</Bill_Tp>
+	  </Bill>
+	  <Address_Information>
+		<Mailing_Address_1>5 NEW ROAD</Mailing_Address_1>
+		<Mailing_Address_2></Mailing_Address_2>
+		<City>HOUSTON</City>
+		<State>TX</State>
+		<Zip>77004</Zip>
+	  </Address_Information>	
+      <Account_Class>RES</Account_Class>
+</BILL_HEADER>
+<BILL_HEADER>
+      <Invoice_No>0451JK29</Invoice_No>
+      <Account_No>HSDA-DH21650</Account_No>
+      <Customer_Name>JOHNSON, JANE</Customer_Name>
+      <Cycle_Cd>1</Cycle_Cd>
+      <Bill_Dt>Jan-14-2019</Bill_Dt>
+      <Due_Dt>Feb-16-2019</Due_Dt>
+	  <Bill>
+		<Bill_Amount>7230.60</Bill_Amount>
+		<Balance_Due>8230.37</Balance_Due>
+		<Bill_Run_Dt>Sep-07-2017</Bill_Run_Dt>
+		<Bill_Run_Seq>271</Bill_Run_Seq>
+		<Bill_Run_Tm>19000101</Bill_Run_Tm>
+		<Bill_Tp>REGLR</Bill_Tp>
+	  </Bill>
+	  <Address_Information>
+		<Mailing_Address_1>667 WILD C LN</Mailing_Address_1>
+		<Mailing_Address_2></Mailing_Address_2>
+		<City>HOUSTON</City>
+		<State>TX</State>
+		<Zip>77004</Zip>
+	  </Address_Information>	
+      <Account_Class>RES</Account_Class>
+</BILL_HEADER>
+<BILL_HEADER>
+      <Invoice_No>576125</Invoice_No>
+      <Account_No>KJasU19</Account_No>
+      <Customer_Name>BRONSON, JENNIFER</Customer_Name>
+      <Cycle_Cd>1</Cycle_Cd>
+      <Bill_Dt>Jan-21-2019</Bill_Dt>
+      <Due_Dt>Dec-23-2019</Due_Dt>
+	  <Bill>
+		<Bill_Amount>28.97</Bill_Amount>
+		<Balance_Due>45.35</Balance_Due>
+		<Bill_Run_Dt>Sep-07-2017</Bill_Run_Dt>
+		<Bill_Run_Seq>271</Bill_Run_Seq>
+		<Bill_Run_Tm>19000101</Bill_Run_Tm>
+		<Bill_Tp>REGLR</Bill_Tp>
+	  </Bill>
+	  <Address_Information>
+		<Mailing_Address_1>55 NEW SWAN LN</Mailing_Address_1>
+		<Mailing_Address_2></Mailing_Address_2>
+		<City>BROWNSVILLE</City>
+		<State>TX</State>
+		<Zip>78520</Zip>
+	  </Address_Information>	
+      <Account_Class>RES</Account_Class>
+</BILL_HEADER>
+<BILL_HEADER>
+      <Invoice_No>0004985</Invoice_No>
+      <Account_No>U2-2H34G19</Account_No>
+      <Customer_Name>Countrys, Rudy</Customer_Name>
+      <Cycle_Cd>1</Cycle_Cd>
+      <Bill_Dt>Feb-27-2019</Bill_Dt>
+      <Due_Dt>Jul-18-2019</Due_Dt>
+	  <Bill>
+		<Bill_Amount>28.50</Bill_Amount>
+		<Balance_Due>47.35</Balance_Due>
+		<Bill_Run_Dt>Sep-07-2018</Bill_Run_Dt>
+		<Bill_Run_Seq>275</Bill_Run_Seq>
+		<Bill_Run_Tm>65480101</Bill_Run_Tm>
+		<Bill_Tp>REGLR</Bill_Tp>
+	  </Bill>
+	  <Address_Information>
+		<Mailing_Address_1>985 Safe Drive</Mailing_Address_1>
+		<Mailing_Address_2></Mailing_Address_2>
+		<City>Bryan</City>
+		<State>TX</State>
+		<Zip>77004</Zip>
+	  </Address_Information>	
+      <Account_Class>RES</Account_Class>
+</BILL_HEADER>
+<BILL_HEADER>
+      <Invoice_No>0004988</Invoice_No>
+      <Account_No>U2-2AFD9</Account_No>
+      <Customer_Name>Do Santos, Jubo</Customer_Name>
+      <Cycle_Cd>1</Cycle_Cd>
+      <Bill_Dt>Mar-15-2019</Bill_Dt>
+      <Due_Dt>Nov-16-2019</Due_Dt>
+	  <Bill>
+		<Bill_Amount>1380.60</Bill_Amount>
+		<Balance_Due>9881.37</Balance_Due>
+		<Bill_Run_Dt>Sep-07-2018</Bill_Run_Dt>
+		<Bill_Run_Seq>275</Bill_Run_Seq>
+		<Bill_Run_Tm>640101</Bill_Run_Tm>
+		<Bill_Tp>REGLR</Bill_Tp>
+	  </Bill>
+	  <Address_Information>
+		<Mailing_Address_1>5 Logiblu Dr</Mailing_Address_1>
+		<Mailing_Address_2></Mailing_Address_2>
+		<City>San Antonio</City>
+		<State>TX</State>
+		<Zip>77004</Zip>
+	  </Address_Information>	
+      <Account_Class>RES</Account_Class>
+</BILL_HEADER>
+</BILL_HEADER_Dataset>

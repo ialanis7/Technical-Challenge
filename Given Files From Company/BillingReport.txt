@@ -1,0 +1,1 @@
+Customer.ID,Customer.CustomerName,Customer.AccountNumber,Customer.CustomerAddress,Customer.CustomerCity,Customer.CustomerState,Customer.CustomerZip,Bills.ID,Bills.BillDate,Bills.BillNumber,Bills.AccountBalance,Bills.DueDate,Bills.BillAmount,Bills.FormatGUID,Customer.DateAdded
