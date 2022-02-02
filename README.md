@@ -1,5 +1,5 @@
 # Interview-Challenge-Invoice
-This was a technical assesment for a company that dealt with invoices. I was given roughly a week time to complete this assessment.
+This was a technical assesment for a company that dealt with a large amount of customers and customer information on a daily basis. I was given roughly a week time to complete this assessment.
 
 I have two folders with what the company provided and what I supplied to the company. The assignment was split into three parts. 
 
